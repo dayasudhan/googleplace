@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <!--<item android:id="@+id/location"-->
+              <!--android:title="Location"-->
+              <!--android:icon="@drawable/ic_action_fab" />-->
+        <item android:id="@+id/hotel"
+            android:title="Hotels"
+             />
+        <!--<item android:id="@+id/status"-->
+            <!--android:title="Order Status"-->
+             <!--/>-->
+
+        <!--<item android:id="@+id/invite"-->
+            <!--android:title="Invite"-->
+             <!--/>-->
+
+        <!--<item android:id="@+id/about_knvl"-->
+            <!--android:title="About Khaanavali"-->
+             <!--/>-->
+
+    </group>
+</menu>
